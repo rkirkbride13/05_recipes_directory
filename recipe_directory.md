@@ -65,7 +65,7 @@ CREATE TABLE recipes (
   id SERIAL PRIMARY KEY,
   name text,
   cooking_time text,
-  rating (1-5) int
+  rating int
 );
 ```
 

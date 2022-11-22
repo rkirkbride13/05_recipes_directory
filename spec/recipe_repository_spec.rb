@@ -1,4 +1,5 @@
 require 'recipe_repository'
+require 'recipe'
 
 RSpec.describe RecipeRepository do
 
